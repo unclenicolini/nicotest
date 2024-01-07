@@ -1,5 +1,3 @@
-
-
 #header a#logo1 img{
   margin-top: 20px;
   margin-left: 20px;
@@ -19,16 +17,6 @@
   margin-top: 40px;
   border-radius: 12px 12px 0px 0px;
 }
-
-#footer {
-  background-color: #777;
-  height: 80px;
-  clear: both;
-}
-
-
-
-
 
 #page-wrapper{
   background-image: url("https://github.com/unclenicolini/nicotest/blob/main/images/black.png.jpg");
@@ -56,8 +44,6 @@ h2 strong {
   padding: 5px;
   margin: 10px 0 10px 20px;
 }
-
-
 
 #side-content{ 
   min-height: 150px;
