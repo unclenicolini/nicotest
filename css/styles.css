@@ -20,13 +20,6 @@
 
 #page-wrapper{
   background-image: url("/images/black.jpg");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-}
-
-#page-wrapper{
-  background-image: url("/images");
 }
 
 h2 strong {
