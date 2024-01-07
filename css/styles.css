@@ -19,7 +19,7 @@
 }
 
 #page-wrapper{
-  background-image: url("/images/black.jpg");
+  background-image: url("https://github.com/dkriegls/coursera/blob/main/labs/nicotest/images/black.jpg?raw=true");
 }
 
 h2 strong {
@@ -37,11 +37,6 @@ h2 strong {
 #side-content{ 
   min-height: 150px;
   width: 200px;
-  float: left;
-}
-
-#content-wrapper {
-  background-image: url("https://github.com/dkriegls/coursera/blob/main/labs/lab6/images/repeating.png?raw=true");
   float: left;
 }
 
