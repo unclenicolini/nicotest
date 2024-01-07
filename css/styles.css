@@ -63,3 +63,7 @@ h2 strong {
   float: left;
   margin-left: 15px;
 }
+#content-wrapper {
+  background-image: url("https://github.com/dkriegls/coursera/blob/main/labs/nicotest/images/black.png.jpg?raw=true");
+  float: left;
+}
