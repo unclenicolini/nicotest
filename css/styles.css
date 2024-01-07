@@ -56,12 +56,3 @@ a.newpage {
     color: #005fc1;
 }
 }
- 
-.inkblot-info .inkblot-image { flex: 0 1 10rem; min-width: 10rem; }
-.inkblot-info .inkblot-image img {
-  border-radius: 65% 35% 43% 57% / 41% 35% 65% 59%;
-  box-shadow: 0.5rem 0 var(--inkblot-accent, transparent);
-  /* The height is 8rem, but I want it slightly bigger */
-  height: 10rem; width: 10rem;
-  margin: -1rem 0;
-}
