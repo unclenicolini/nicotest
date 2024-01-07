@@ -47,3 +47,7 @@ h2 strong {
   margin-left: 15px;
 }
 
+ #content-wrapper {
+  background-color: #ccc;
+  color: #333;
+}
