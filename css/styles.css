@@ -4,14 +4,6 @@
   margin-bottom: 20px;
 }
 
-#header h1{
-  position: absolute;
-  left: 420px;
-  top: 5px;
-  font-size: 3em;
-  color: #e35335;
-}
-
 #header{
   position: relative;
   margin-top: 40px;
@@ -20,7 +12,7 @@
 }
 
 #page-wrapper{
-  background-image: url("https://github.com/dkriegls/coursera/blob/main/labs/lab6/images/black.jpg?raw=true");
+  background-image: url("https://github.com/unclenicolini/nicotest/blob/main/images/black.jpg?raw=true");
 }
 
 #main-content{
@@ -29,13 +21,6 @@
   box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
   border-radius: 12px 12px 0px 0px;
   color: #e35335;
-}
-
-a {
-    color: #004fa0;
-} 
-a:visited {
-    color: #00356c;
 }
 
 h2 strong {
@@ -51,9 +36,6 @@ h2 strong {
 }
 
 #side-content{ 
-  min-height: 150px;
-  width: 200px;
-  float: left;
   color: #e35335;
 }
 
@@ -62,4 +44,5 @@ h2 strong {
   margin: 0 auto;
   box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
   border-radius: 12px 12px 0px 0px;
+  padding: 2em
 }
