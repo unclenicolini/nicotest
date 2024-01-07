@@ -11,9 +11,6 @@
   color: #e35335;
 }
 
-#page-wrapper{
-  background-image: url("https://github.com/unclenicolini/nicotest/blob/main/images/black.jpg?raw=true");
-}
 
 #main-content{
   width: 960px;
@@ -44,4 +41,23 @@ h2 strong {
   box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
   border-radius: 12px 12px 0px 0px;
   padding: 2em
+}
+body {
+    background-color: #f0f0f0;
+    color: #000000;
+
+a {
+    color: #004fa0;
+} 
+ 
+a:visited {
+    color: #00356c;
+}
+ 
+a:new-page {
+    color: #8791d9;
+}
+ 
+a.newpage {
+    color: #005fc1;
 }
