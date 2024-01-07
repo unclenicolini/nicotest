@@ -8,14 +8,12 @@
   position: relative;
   margin-top: 40px;
   border-radius: 12px 12px 0px 0px;
-  color: #e35335;
 }
 
 
 #main-content{
   width: 960px;
   margin: 0 auto;
-  color: #e35335;
   padding: 1em
 }
 
@@ -29,10 +27,6 @@ h2 strong {
   width: 300px;
   padding: 5px;
   margin: 10px 0 10px 20px;
-}
-
-#side-content{ 
-  color: #e35335;
 }
 
  #page-wrapper{
