@@ -31,7 +31,12 @@
   color: #e35335;
 }
 
-
+a {
+    color: #004fa0;
+} 
+a:visited {
+    color: #00356c;
+}
 
 h2 strong {
   font-size: 2em;
