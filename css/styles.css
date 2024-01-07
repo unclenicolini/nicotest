@@ -1,4 +1,8 @@
-
+#header a#logo1 img{
+  margin-top: 150px;
+  margin-left: 150px;
+  margin-bottom: 150px;
+}
 
 #header{
   position: relative;
