@@ -51,5 +51,8 @@ h2 strong {
   float: left;
 }
 
-
+#content-wrapper {
+  background-image: url("https://github.com/unclenicolini/nicotest/blob/main/images/black.png.jpg?raw=true");
+  float: left;
+}
 
