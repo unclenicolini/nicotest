@@ -15,11 +15,14 @@
   width: 960px;
   margin: 0 auto;
   padding: 1em
+    
 }
 
-h2 strong {
+h2 strong,
+h1 strong {
   font-size: 2em;
   font-weight: 900;
+  font-family: 'Lemon', serif;
 }
 
  .image-r{
@@ -40,25 +43,24 @@ body {
     background-color: #f0f0f0;
     color: #000000;
 
-a {
-    color: #004fa0;
-} 
- 
-a:visited {
-    color: #00356c;
-}
- 
-a:new-page {
-    color: #8791d9;
-}
- 
+
 a.newpage {
     color: #005fc1;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+a:link, a:visited {
+  background-color: #92C3FA;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #499BF7;
+}
+  
+  ul {
+  list-style-type: none;
 }
