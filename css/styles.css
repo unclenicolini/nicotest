@@ -27,7 +27,6 @@ h2 strong {
   width: 300px;
   padding: 5px;
   margin: 10px 0 10px 20px;
-  align:center;
 }
 
  #page-wrapper{
@@ -55,4 +54,11 @@ a:new-page {
  
 a.newpage {
     color: #005fc1;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
