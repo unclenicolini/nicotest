@@ -22,14 +22,16 @@ h2 strong,
 h1 strong {
   font-size: 2em;
   font-weight: 900;
-  font-family: 'Lemon', serif;
+  font-family: 'Open Sans', serif;
+      text-shadow: 1px 1px 1px #000000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.8);
 }
 
  .image-r{
-  float: right;
   width: 300px;
   padding: 5px;
   margin: 10px 0 10px 20px;
+   position: relative;
 }
 
  #page-wrapper{
@@ -39,10 +41,17 @@ h1 strong {
   border-radius: 12px 12px 0px 0px;
   padding: 2em
 }
+
 body {
     background-color: #f0f0f0;
     color: #000000;
-
+  background-image: url("https://scp-wiki.wdfiles.com/local--files/life-insurance-policy/fsd.png");
+      background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+    
+}
 
 a.newpage {
     color: #005fc1;
@@ -63,4 +72,5 @@ a:hover, a:active {
   
   ul {
   list-style-type: none;
+    
 }
